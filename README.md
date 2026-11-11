@@ -4,7 +4,7 @@ Front-end code sample for the [Conference REST API](https://github.com/arturomor
 - ES modules
 - Dynamic `import()`
 - `<template>`
--`DocumentFragment`
+- `DocumentFragment`
 - Safe text insertion
 - Responsive WebP assets
 - Reserved image dimensions
